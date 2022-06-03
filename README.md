@@ -1,0 +1,2 @@
+# JS-PRACTICE-Node-Sleep-Tracker
+This is another Node project I worked on in which I used NPM's 'readline-sync' package. The user first enters their name, the number of hours they slept each night of the week, & the total number of hours they wanted to sleep during the week. The result is then reported and the user can see if they met their goal. To see how the pprogram works, you can run it in the terminal.
