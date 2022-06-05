@@ -11,7 +11,7 @@ const getHoursSlept = () => {
     // Ask user how many hours they slept on each night of the week:
     // MONDAY:
     const getMonday = () => {
-        let monday = rs.question('How many hours did you sleep on Monday night? ');
+        let monday = rs.question('How may hours did you sleep on Monday night? ');
 
         if (!isNaN(monday)) {
             monday = Number(monday);
